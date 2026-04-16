@@ -7,7 +7,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ## 🚀 Live Demo
 
-🔗 https://your-username.github.io/Portfolio/
+🔗 [https://your-username.github.io/Portfolio/](https://shashikantportfolios.netlify.app/)
 
 ---
 
